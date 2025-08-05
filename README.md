@@ -35,13 +35,16 @@ A simple Full Stack application that allows interns to register/login, view thei
 ## 🚀 Setup Instructions
 
 ### 🔹 Frontend
+```bash
+cd intern-portal-backend
+npm install
+node server.js
 
+### 🔹 BACKEND
 ```bash
 cd frontend
 npm install
 npm start
 
 
-cd intern-portal-backend
-npm install
-node server.js
+
