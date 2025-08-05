@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Alex Johnson",
+    "referralCode": "alex2025",
+    "amount": "₹5,000"
+  },
+  {
+    "name": "Riya Rane",
+    "referralCode": "riya2025",
+    "amount": "₹7,500"
+  },
+  {
+    "name": "Sneha Patel",
+    "referralCode": "sneha2025",
+    "amount": "₹3,200"
+  },
+  {
+    "name": "Rahul Mehta",
+    "referralCode": "rahul2025",
+    "amount": "₹4,000"
+  },
+  {
+    "name": "Neha Verma",
+    "referralCode": "neha2025",
+    "amount": "₹6,800"
+  },
+  {
+    "name": "Ankit Sharma",
+    "referralCode": "ankit2025",
+    "amount": "₹2,500"
+  },
+  {
+    "name": "Divya Kapoor",
+    "referralCode": "divya2025",
+    "amount": "₹5,700"
+  }
+]
